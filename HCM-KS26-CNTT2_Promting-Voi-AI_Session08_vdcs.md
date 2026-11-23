@@ -119,7 +119,7 @@ Kết quả AI trả về:
 ```JSON
 {
   "intent": "Hoi_Thong_Tin",
-  "items": "Trà sữa trân châu",
+  "items": "Trà sữa trân châu,gà chiên",
   "priority": "Binh_Thuong",
   "status": "Canh_Bao_Loi"
 }
